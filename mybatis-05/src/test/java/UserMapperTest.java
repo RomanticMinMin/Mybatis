@@ -3,7 +3,6 @@ import com.xing.pojo.User;
 import com.xing.utils.MybatisUtils;
 import org.apache.ibatis.session.SqlSession;
 import org.junit.Test;
-
 import java.util.List;
 
 public class UserMapperTest {
